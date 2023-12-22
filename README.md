@@ -4,4 +4,4 @@ Lorem ipsum dummy text.
 
 Website: https://lipsumm.netlify.app/
 
-Chrome extension : asd
+Chrome extension : https://chromewebstore.google.com/detail/ciogjoacokailalibgdnfiojapfalplh?hl=en
