@@ -71,3 +71,17 @@ body.dark label{
 input{
     visibility: hidden
 }
+
+.webStore{
+    position: fixed; 
+    top: 120px;
+    right: 20px;
+    width: 43px;
+    height: 43px
+    
+} 
+
+.webStore:hover{
+    filter: drop-shadow(0 0 10px #26262680);
+    transition: 300ms
+}
